@@ -8,7 +8,6 @@
 
 如果安装包和编译教程对你有所帮助，你可以选择打赏请我喝一杯咖啡。
 
-<div align="center"><img width="300" height="300" src="images/alipay.png"><img width="300" height="300" src="images/wechatpay.png"></div>
 
 ## 编译过程
 
